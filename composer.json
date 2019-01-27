@@ -1,5 +1,5 @@
 {
-    "name": "swiftfox/test",
+    "name": "swiftfox/core",
     "type": "library",
     "require": {
         "illuminate/support": "^5.8@dev"
